@@ -1,1 +1,2 @@
 Run test.py and look into test.py for explanations. The plume models, line plume and cone plume, are written after Jenkins et al. 2011 (DOI:10.1175/JPO-D-11-03.1) and Cowton et al. 2015, (DOI:10.1002/2014JC010324),respectively.
+model was used in my publication beckmann et al 2018 (https://doi.org/10.5194/tc-12-301-2018)
